@@ -154,3 +154,9 @@ html, body {
 .wow {
 	-webkit-animation-delay: 0.4s;
 }
+
+@media only screen and (min-width: 768px) {
+	.responsive{
+	display: none;
+	}
+} 
