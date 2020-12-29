@@ -155,6 +155,9 @@ html, body {
 	-webkit-animation-delay: 0.4s;
 }
 
+.responsive{
+	}
+
 @media only screen and (max-width: 600px) {
 	.responsive{
 	display: none;
